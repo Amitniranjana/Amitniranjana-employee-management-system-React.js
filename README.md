@@ -1,0 +1,2 @@
+# Amitniranjana-employee-management-system-React.js
+A React-based system demonstrating role-based authentication and dynamic dashboards for admins and employees. Features include secure login, persistent sessions with LocalStorage, and state management using React hooks. Future plans: backend API integration, token-based authentication, and logout functionality.  #ReactJS #WebDevelopment #OpenSource
