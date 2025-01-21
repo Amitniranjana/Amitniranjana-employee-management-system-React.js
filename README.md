@@ -1,2 +1,8 @@
-# Amitniranjana-employee-management-system-React.js
-A React-based system demonstrating role-based authentication and dynamic dashboards for admins and employees. Features include secure login, persistent sessions with LocalStorage, and state management using React hooks. Future plans: backend API integration, token-based authentication, and logout functionality.  #ReactJS #WebDevelopment #OpenSource
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
